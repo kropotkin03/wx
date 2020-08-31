@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<resource xmlns="http://www.wxwindows.org/wxxrc" version="2.3.0.1">
+	<object class="wxFrame" name="MyFrame4">
+		<style>wxDEFAULT_FRAME_STYLE|wxTAB_TRAVERSAL</style>
+		<size>340,79</size>
+		<title>Ventana de Ejemplo</title>
+		<centered>1</centered>
+		<aui_managed>0</aui_managed>
+		<object class="wxButton" name="m_button9">
+			<label>Aceptar</label>
+			<default>0</default>
+		</object>
+	</object>
+</resource>
